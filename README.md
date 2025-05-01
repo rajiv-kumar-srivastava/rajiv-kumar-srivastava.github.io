@@ -30,6 +30,7 @@ _This is italic text_
 
 ~~Strikethrough~~
 
+## h2 Bullet Numbering
 1. First ordered list item
 2. Another item
 ⋅⋅* Unordered sub-list.
@@ -65,7 +66,7 @@ _This is italic text_
     - Nulla volutpat aliquam velit
 + Very easy!
 
-##H2 Task lists
+## h2 Task lists
 
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
@@ -74,7 +75,7 @@ _This is italic text_
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 
-##H2 Links
+## h2 Links
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
@@ -97,7 +98,7 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com****
 
-#Images
+## h2 Images
 Here's our logo (hover to see the title text):
 
 Inline-style:
