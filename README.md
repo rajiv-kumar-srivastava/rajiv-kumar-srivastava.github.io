@@ -98,7 +98,7 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com****
 
-## h2 Images
+## Images
 Here's our logo (hover to see the title text):
 
 Inline-style:
